@@ -7,10 +7,10 @@ This workshop introduces **Ollama**, an open-source platform for downloading and
 Local models provide an alternative to cloud-based services such as ChatGPT or Gemini. A model running locally on your laptop or workstation can provide a number of benefits, including:
 
 * Greater control over where and how data is processed
-* The ability to access AI models offline without an internet connection
-* An opportunity to experiment without requiring a payment method
-* The option to embed lightweight AI models into portable, offline devices
-* The availability of open source GenAI models
+* Offline access to AI models without an internet connection
+* No-payment-method experimentation
+* Lightweight AI models for portable, offline devices
+* Open-source GenAI models
 
 Local models also have limitations, including hardware and memory requirements, and may not provide the same capabilities as larger cloud-based systems.
 
