@@ -1,7 +1,5 @@
 # Open Source GenAI with Ollama
 
-## Description
-
 This workshop introduces **Ollama**, an open-source platform for downloading and running generative AI models. We focus primarily on running models locally on a laptop or workstation and explore how different models can be used for chat, document transcription, image analysis, text classification, and document-based question answering.
 
 Local models provide an alternative to cloud-based services such as ChatGPT or Gemini. A model running locally on your laptop or workstation can provide a number of benefits, including:
