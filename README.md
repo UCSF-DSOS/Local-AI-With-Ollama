@@ -32,7 +32,7 @@ By the end of this workshop, participants will be able to:
 
 No previous Python or Unix experience is required to participate in the workshop.
 
-The demos int this workshop will use the Unix command line and Jupyter notebooks running Python. Participants with programming or command-line experience may choose to code along, but this is optional.
+Demonstrations of Ollama in this workshop will use the Unix command line and Jupyter notebooks running Python. Participants with programming or command-line experience may choose to code along, but this is optional.
 
 Participants who want to run the examples on their own computer will need:
 
@@ -40,8 +40,6 @@ Participants who want to run the examples on their own computer will need:
 - Python
 - Jupyter Notebook or JupyterLab
 - A Unix command-line environment
-
-macOS and Linux provide Unix-style command-line environments directly. On Windows, Git Bash, included with Git for Windows, can provide a similar command-line environment for following the Unix examples.
 
 ## Installing and Running Ollama
 
@@ -69,7 +67,7 @@ To start an interactive chat with Gemma 3:
 ollama run gemma3
 ```
 
-The workshop begins with this command-line interface before moving to Python. The command line provides a simple way to explore Ollama and its models, while Python allows us to incorporate the same models into more sophisticated computational workflows.
+The workshop will begin by running a chat-style GenAI model through the command-line interface before moving to Python. The command line provides a simple way to explore Ollama and its models, while Python allows us to incorporate the same models into more sophisticated computational workflows.
 
 Ollama can also be used through graphical chat interfaces, other programming languages, and applications that communicate with the Ollama API.
 
