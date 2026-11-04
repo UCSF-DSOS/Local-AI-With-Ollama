@@ -126,25 +126,25 @@ Using related materials across several examples makes it possible to compare how
 
 ## Workbooks
 
-### Extract-Text.ipynb
+### [Extract-Text.ipynb](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/Extract-Text.ipynb)
 
 This workbook uses **DeepSeek-OCR** to extract text from an image of a document from the UCSF Industry Documents Library.
 
 The example demonstrates how a locally running vision-language model can be used for OCR and how the resulting text can be saved for subsequent analysis.
 
-### Describe-Image.ipynb
+### [Describe-Image.ipynb](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/Describe-Image.ipynb)
 
 This workbook uses **Qwen3-VL** to describe and interpret an advertising image from the Industry Documents Library.
 
 Rather than simply extracting text, this example asks a vision-language model to describe and interpret visual information contained in the image.
 
-### Classify-Text-Chat.ipynb
+### [Classify-Text-Chat.ipynb](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/Classify-Text-Chat.ipynb)
 
 This workbook uses **Gemma 3**, a general-purpose chat model, to classify text into a set of categories.
 
 The example illustrates how instructions provided through a conventional chat prompt can be used to turn a general-purpose generative model into a simple text classifier.
 
-### Classify-Text-Decision.ipynb
+### [Classify-Text-Decision.ipynb](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/Classify-Text-Decision.ipynb)
 
 This workbook uses **Strands Decider** to perform text classification using a Jev-style decision model.
 
