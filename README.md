@@ -12,13 +12,11 @@ Local models provide an alternative to cloud-based services such as ChatGPT or G
 * Lightweight AI models for portable, offline devices
 * Open-source GenAI models
 
-Local models also have limitations, including hardware and memory requirements, and may not provide the same capabilities as larger cloud-based systems.
-
 The workshop introduces several types of models available through Ollama and considers how to choose a model for a particular task. We begin by interacting with a general-purpose chat model from the Unix command line, then use Python to work with models for optical character recognition (OCR), image analysis, text classification, structured decision making, and document-based chat. These examples illustrate how generative AI models can be incorporated into larger computational and document-analysis workflows.
 
 Programming experience is not required. Participants can follow the demonstrations and discussion without coding along. Participants with Python or Unix command-line experience are welcome to run or adapt the examples.
 
-> **Note:** Ollama is open-source software, but the models available through Ollama have their own licenses and are not necessarily open source. Review the license and terms associated with a model before using or distributing it.
+> **Note:** Ollama is open-source software, but the models available through Ollama have their own licenses and are not necessarily open source. Local models also have limitations, including hardware and memory requirements, and may not provide the same capabilities as larger cloud-based systems.
 
 ## Objectives
 
