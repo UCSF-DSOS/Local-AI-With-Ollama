@@ -32,15 +32,14 @@ By the end of this workshop, participants will be able to:
 
 No previous Python or Unix experience is required to participate in the workshop.
 
-The demonstrations use a Unix-style command line and Jupyter notebooks running Python. Participants with programming or command-line experience may choose to code along, but this is optional.
+The demos int this workshop will use the Unix command line and Jupyter notebooks running Python. Participants with programming or command-line experience may choose to code along, but this is optional.
 
 Participants who want to run the examples on their own computer will need:
 
 - Ollama
 - Python
 - Jupyter Notebook or JupyterLab
-- A Unix-style command-line environment
-- Sufficient memory and disk space for the models being used
+- A Unix command-line environment
 
 macOS and Linux provide Unix-style command-line environments directly. On Windows, Git Bash, included with Git for Windows, can provide a similar command-line environment for following the Unix examples.
 
