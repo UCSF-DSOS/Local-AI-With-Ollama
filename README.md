@@ -118,9 +118,9 @@ The workshop uses documents from the **UCSF Industry Documents Library**, a digi
 
 The examples include several forms of document data:
 
-- An image of an article used to demonstrate OCR
-- The text extracted from that article, used for text classification and document chat
-- An advertising image used to demonstrate visual analysis
+- [An image of an article](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/media/pmcj0045.png) used to demonstrate OCR
+- [The text extracted from that article](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/media/pmcj0045.txt) used for text classification and document chat
+- [An advertising image](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/media/glnj0229.png) used to demonstrate visual analysis
 
 Using related materials across several examples makes it possible to compare how different kinds of models work with textual and visual information.
 
