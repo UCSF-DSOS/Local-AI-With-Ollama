@@ -73,7 +73,9 @@ Ollama can also be used through graphical chat interfaces, other programming lan
 
 ## Models Used in This Workshop
 
-Ollama provides access to a wide range of models designed for different tasks. Models vary in their capabilities, size, hardware requirements, and licensing.
+Ollama provides access to a wide range of models designed for different tasks. Models vary in their capabilities, size, hardware requirements, and licensing. For more information on available Ollama models, visit the model library page:
+
+[https://ollama.com/library](https://ollama.com/library)
 
 This workshop uses the following models.
 
