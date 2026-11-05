@@ -147,7 +147,7 @@ Instead of asking a general-purpose chat model to generate a free-form answer, t
 
 Together, `Classify-Text-Chat.ipynb` and `Classify-Text-Decision.ipynb` provide an opportunity to compare classification using a general-purpose chat model with classification using a model designed specifically for structured decisions.
 
-### Document-Chat.ipynb
+### [Document-Chat.ipynb](https://github.com/UCSF-DSOS/Local-AI-With-Ollama/blob/main/Document-Chat.ipynb)
 
 This workbook uses **Gemma 3** to interact with text previously extracted from a document.
 
